@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+ <hr/>
+ 
 📫 How to reach me: 
 
+
+<hr/>
 
 **🚀 &nbsp;Some Tools I Have Used and Learned**
 <p align="left">
