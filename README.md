@@ -1,7 +1,8 @@
 ### Hi there 👋 Welcome to my Github profile 
 
-**I am a Mobile Developer (Android/IOS)**
+**I am a Mobile Application Developer (Android/IOS)**
 
+🔭 I’m currently working as Android Developer but open any sideline jobs.
 
 <!-- **Princezar/princezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
