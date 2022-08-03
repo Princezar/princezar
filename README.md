@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
+[![wakatime](https://wakatime.com/badge/user/10c1d192-7853-4c51-bad3-a18905b06c1c.svg)](https://wakatime.com/@10c1d192-7853-4c51-bad3-a18905b06c1c)
+
