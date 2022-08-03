@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="javascript" width="45" height="45"/>
  
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princezar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princezar&repo=convoychat" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princezar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
