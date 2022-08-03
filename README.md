@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 
-📈  My GitHub History!
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princezar&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princezar&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 **🚀 &nbsp;Some Tools I Have Used and Learned**
 <p align="left">
@@ -45,12 +40,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="androidstudio" width="45" height="45"/>
  
- 
- 
- 
- 
- 
 </p>
 
+📈  My GitHub History!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princezar&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princezar&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
