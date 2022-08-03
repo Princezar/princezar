@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="androidstudio" width="45" height="45"/>
  
 </p>
+<hr/>
 
 📈  My GitHub History!
 
