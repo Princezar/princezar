@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princezar&count_private=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=princezar&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
