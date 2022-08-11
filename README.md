@@ -7,6 +7,7 @@ in IOS Development.
 
 🌱In my free time I'm learning with Flutter.
 
+<i class="zmdi zmdi-keyboard"></i>
 
 <!-- **Princezar/princezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
