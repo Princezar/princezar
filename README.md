@@ -2,7 +2,7 @@
 
 **I am a Mobile Application Developer (Android/IOS)**
 
-🔭 I’m currently working as Android Developer but open for any sideline jobs. Most of my experience in the past is
+🔭 I’m currently working as Android Developer but open for any sideline jobs. <br/> Most of my experience in the past is
 in IOS Development.
 
 🌱In my free time I'm learning with Flutter.
