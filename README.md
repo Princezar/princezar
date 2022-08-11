@@ -5,7 +5,9 @@
 🔭 I’m currently working as Android Developer but open for any sideline jobs. Most of my experience in the past is
 in IOS Development.
 
-🌱 Also in my free time I'm learning with Flutter.
+🌱In my free time I'm learning with Flutter.
+
+"\f0f4"; 
 
 <!-- **Princezar/princezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
  <hr/>
  
-📫 Email me @ : ejjars@gmail.com
+📫You can reach me @ : ejjars@gmail.com
 
 
 <hr/>
