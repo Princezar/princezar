@@ -1,11 +1,10 @@
 ### Hi there 👋 Welcome to my Github profile 
 
-**I am a Mobile Application Developer (Android/IOS)**
+🔭 I'm a Mobile Application Developer and currently connected to a private company in the Philippines. I do both Android and IOS applications.
+I used Flutter in most of my projects.
 
-🔭 I’m currently working as Android Developer but open for any sideline jobs. <br/> Most of my experience in the past is
-in IOS Development.
-
-🌱In my free time I'm learning with Flutter.
+🌱In my free time I used to explore Flutter tutorials in the internet to enhanced my skills. If you feel like you need some help from me.
+you are free to DM me! Just reach me via email below.
 
 <i class="zmdi zmdi-keyboard"></i>
 
