@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="javascript" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="xcode" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="xcode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
